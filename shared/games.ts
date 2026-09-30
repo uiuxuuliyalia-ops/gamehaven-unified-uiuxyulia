@@ -57,22 +57,22 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "neon-drift", titles: {"ru": "Neon Drift", "en": "Neon Drift", "zh": "Neon Drift"}, category: "driving", tags: ["машины", "дрифт", "3D"],
     descriptions: {"ru": "Ночные заезды по неоновому мегаполису. Дрифтуйте в миллиметрах от соперников и собирайте нитро.", "en": "Ночные заезды по неоновому мегаполису. Дрифтуйте в миллиметрах от соперников и собирайте нитро.", "zh": "Ночные заезды по неоновому мегаполису. Дрифтуйте в миллиметрах от соперников и собирайте нитро."}, controls: {"ru": ["WASD — движение", "Пробел — ручной тормоз", "Shift — нитро"], "en": ["WASD — движение", "Пробел — ручной тормоз", "Shift — нитро"], "zh": ["WASD — движение", "Пробел — ручной тормоз", "Shift — нитро"]},
-    imageUrl: "/manus-storage/game-racing_a2f35c8c.jpg", gameUrl: null, rating: 4.9, plays: 12800000, year: 2026, badge: "hit",
+    imageUrl: "/covers/neon-drift.jpg", gameUrl: null, rating: 4.9, plays: 12800000, year: 2026, badge: "hit",
   },
   {
     slug: "skyline-raider", titles: {"ru": "Skyline Raider", "en": "Skyline Raider", "zh": "Skyline Raider"}, category: "adventure", tags: ["паркур", "экшен", "герой"],
     descriptions: {"ru": "Покоряйте летающий город с крюком-кошкой и пробирайтесь через головокружительные уровни.", "en": "Покоряйте летающий город с крюком-кошкой и пробирайтесь через головокружительные уровни.", "zh": "Покоряйте летающий город с крюком-кошкой и пробирайтесь через головокружительные уровни."}, controls: {"ru": ["WASD — движение", "Мышь — прицел", "E — крюк"], "en": ["WASD — движение", "Мышь — прицел", "E — крюк"], "zh": ["WASD — движение", "Мышь — прицел", "E — крюк"]},
-    imageUrl: "/manus-storage/game-action_ecc62de8.jpg", gameUrl: null, rating: 4.8, plays: 7600000, year: 2026, badge: "new",
+    imageUrl: "/covers/skyline-raider.jpg", gameUrl: null, rating: 4.8, plays: 7600000, year: 2026, badge: "new",
   },
   {
     slug: "prism-shift", titles: {"ru": "Prism Shift", "en": "Prism Shift", "zh": "Prism Shift"}, category: "puzzle", tags: ["логика", "порталы", "блоки"],
     descriptions: {"ru": "Меняйте гравитацию, соединяйте кристаллы и открывайте порталы в футуристической лаборатории.", "en": "Меняйте гравитацию, соединяйте кристаллы и открывайте порталы в футуристической лаборатории.", "zh": "Меняйте гравитацию, соединяйте кристаллы и открывайте порталы в футуристической лаборатории."}, controls: {"ru": ["Мышь — выбор", "R — перезапуск", "Z — отмена"], "en": ["Мышь — выбор", "R — перезапуск", "Z — отмена"], "zh": ["Мышь — выбор", "R — перезапуск", "Z — отмена"]},
-    imageUrl: "/manus-storage/game-puzzle_7dd17d86.jpg", gameUrl: null, rating: 4.7, plays: 4200000, year: 2026, badge: "top",
+    imageUrl: "/covers/prism-shift.jpg", gameUrl: null, rating: 4.7, plays: 4200000, year: 2026, badge: "top",
   },
   {
     slug: "hover-arena", titles: {"ru": "Hover Arena", "en": "Hover Arena", "zh": "Hover Arena"}, category: "io", tags: ["мультиплеер", "арена", "гонки"],
     descriptions: {"ru": "Соревнуйтесь на воздушных аренах, сталкивайте соперников и останьтесь последним пилотом.", "en": "Соревнуйтесь на воздушных аренах, сталкивайте соперников и останьтесь последним пилотом.", "zh": "Соревнуйтесь на воздушных аренах, сталкивайте соперников и останьтесь последним пилотом."}, controls: {"ru": ["WASD — движение", "Мышь — камера", "Пробел — ускорение"], "en": ["WASD — движение", "Мышь — камера", "Пробел — ускорение"], "zh": ["WASD — движение", "Мышь — камера", "Пробел — ускорение"]},
-    imageUrl: "/manus-storage/game-io_f68f3b3f.jpg", gameUrl: null, rating: 4.6, plays: 9100000, year: 2026, badge: "hit",
+    imageUrl: "/covers/hover-arena.jpg", gameUrl: null, rating: 4.6, plays: 9100000, year: 2026, badge: "hit",
   },
   {
     slug: "strike-point", titles: {"ru": "Strike Point", "en": "Strike Point", "zh": "Strike Point"}, category: "shooting", tags: ["FPS", "тактика", "онлайн"],
@@ -97,42 +97,42 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "circuit-sprint", titles: {"ru": "Circuit Sprint", "en": "Circuit Sprint", "zh": "Circuit Sprint"}, category: "driving", tags: ["скорость", "тайм-атак", "аркада"],
     descriptions: {"ru": "Короткие техничные трассы, призрачные соперники и борьба за сотые доли секунды.", "en": "Короткие техничные трассы, призрачные соперники и борьба за сотые доли секунды.", "zh": "Короткие техничные трассы, призрачные соперники и борьба за сотые доли секунды."}, controls: {"ru": ["WASD — движение", "Shift — нитро", "R — рестарт"], "en": ["WASD — движение", "Shift — нитро", "R — рестарт"], "zh": ["WASD — движение", "Shift — нитро", "R — рестарт"]},
-    imageUrl: "/manus-storage/circuit-sprint_1488fee1.jpg", gameUrl: null, rating: 4.3, plays: 2700000, year: 2026, badge: null,
+    imageUrl: "/covers/circuit-sprint.jpg", gameUrl: null, rating: 4.3, plays: 2700000, year: 2026, badge: null,
   },
   {
     slug: "portal-paws", titles: {"ru": "Portal Paws", "en": "Portal Paws", "zh": "Portal Paws"}, category: "adventure", tags: ["платформер", "головоломка", "кот"],
     descriptions: {"ru": "Помогите космическому коту вернуться домой, прыгая между измерениями и собирая звёзды.", "en": "Помогите космическому коту вернуться домой, прыгая между измерениями и собирая звёзды.", "zh": "Помогите космическому коту вернуться домой, прыгая между измерениями и собирая звёзды."}, controls: {"ru": ["Стрелки — движение", "Пробел — прыжок", "E — портал"], "en": ["Стрелки — движение", "Пробел — прыжок", "E — портал"], "zh": ["Стрелки — движение", "Пробел — прыжок", "E — портал"]},
-    imageUrl: "/manus-storage/portal-paws_229e1d62.jpg", gameUrl: null, rating: 4.8, plays: 3400000, year: 2026, badge: "new",
+    imageUrl: "/covers/portal-paws.jpg", gameUrl: null, rating: 4.8, plays: 3400000, year: 2026, badge: "new",
   },
   {
     slug: "goal-rush", titles: {"ru": "Goal Rush", "en": "Goal Rush", "zh": "Goal Rush"}, category: "sports", tags: ["футбол", "пенальти", "быстрая"],
     descriptions: {"ru": "Серия пенальти с идеальной физикой удара. Читайте вратаря и попадайте в девятку.", "en": "Серия пенальти с идеальной физикой удара. Читайте вратаря и попадайте в девятку.", "zh": "Серия пенальти с идеальной физикой удара. Читайте вратаря и попадайте в девятку."}, controls: {"ru": ["Мышь — направление", "Удержание — сила", "Пробел — удар"], "en": ["Мышь — направление", "Удержание — сила", "Пробел — удар"], "zh": ["Мышь — направление", "Удержание — сила", "Пробел — удар"]},
-    imageUrl: "/manus-storage/goal-rush_3b03105a.jpg", gameUrl: null, rating: 4.2, plays: 2100000, year: 2026, badge: null,
+    imageUrl: "/covers/goal-rush.jpg", gameUrl: null, rating: 4.2, plays: 2100000, year: 2026, badge: null,
   },
   {
     slug: "pixel-frontier", titles: {"ru": "Pixel Frontier", "en": "Pixel Frontier", "zh": "Pixel Frontier"}, category: "simulation", tags: ["крафт", "исследование", "пиксели"],
     descriptions: {"ru": "Исследуйте уютный бесконечный мир, собирайте ресурсы и стройте собственную базу.", "en": "Исследуйте уютный бесконечный мир, собирайте ресурсы и стройте собственную базу.", "zh": "Исследуйте уютный бесконечный мир, собирайте ресурсы и стройте собственную базу."}, controls: {"ru": ["WASD — движение", "Мышь — действие", "I — инвентарь"], "en": ["WASD — движение", "Мышь — действие", "I — инвентарь"], "zh": ["WASD — движение", "Мышь — действие", "I — инвентарь"]},
-    imageUrl: "/manus-storage/pixel-frontier_95b41e83.jpg", gameUrl: null, rating: 4.5, plays: 4700000, year: 2026, badge: null,
+    imageUrl: "/covers/pixel-frontier.jpg", gameUrl: null, rating: 4.5, plays: 4700000, year: 2026, badge: null,
   },
   {
     slug: "action-01", titles: {"ru": "Неоновый Прибой", "en": "Неоновый Прибой", "zh": "Неоновый Прибой"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.4, plays: 1781000, year: 2026, badge: null,
+    imageUrl: "/covers/neon-riptide.jpg", gameUrl: null, rating: 4.4, plays: 1781000, year: 2026, badge: null,
   },
   {
     slug: "action-02", titles: {"ru": "Пепельный Свод", "en": "Пепельный Свод", "zh": "Пепельный Свод"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.5, plays: 1918000, year: 2026, badge: null,
+    imageUrl: "/covers/ember-vault.jpg", gameUrl: null, rating: 4.5, plays: 1918000, year: 2026, badge: null,
   },
   {
     slug: "action-03", titles: {"ru": "Небесный Крюк", "en": "Небесный Крюк", "zh": "Небесный Крюк"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.6, plays: 2055000, year: 2026, badge: null,
+    imageUrl: "/covers/skyhook.jpg", gameUrl: null, rating: 4.6, plays: 2055000, year: 2026, badge: null,
   },
   {
     slug: "action-04", titles: {"ru": "Моховой Клинок", "en": "Моховой Клинок", "zh": "Моховой Клинок"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.7, plays: 2192000, year: 2026, badge: null,
+    imageUrl: "/covers/mossblade.jpg", gameUrl: null, rating: 4.7, plays: 2192000, year: 2026, badge: null,
   },
   {
     slug: "action-05", titles: {"ru": "Призматическая Осада", "en": "Призматическая Осада", "zh": "Призматическая Осада"}, category: "action", tags: ["экшен"],
@@ -142,12 +142,12 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "action-06", titles: {"ru": "Дрейфующий Фонарь", "en": "Дрейфующий Фонарь", "zh": "Дрейфующий Фонарь"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.9, plays: 2466000, year: 2026, badge: "new",
+    imageUrl: "/covers/drifting-lantern.jpg", gameUrl: null, rating: 4.9, plays: 2466000, year: 2026, badge: "new",
   },
   {
     slug: "action-07", titles: {"ru": "Железный Сад", "en": "Железный Сад", "zh": "Железный Сад"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.1, plays: 2603000, year: 2026, badge: null,
+    imageUrl: "/covers/iron-garden.jpg", gameUrl: null, rating: 4.1, plays: 2603000, year: 2026, badge: null,
   },
   {
     slug: "action-08", titles: {"ru": "Бегущий Сквозь Завесу", "en": "Бегущий Сквозь Завесу", "zh": "Бегущий Сквозь Завесу"}, category: "action", tags: ["экшен"],
@@ -162,7 +162,7 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "action-10", titles: {"ru": "Солнечная Спираль", "en": "Солнечная Спираль", "zh": "Солнечная Спираль"}, category: "action", tags: ["экшен"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["WASD — движение", "Мышь — действие"], "en": ["WASD — движение", "Мышь — действие"], "zh": ["WASD — движение", "Мышь — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.4, plays: 3014000, year: 2026, badge: null,
+    imageUrl: "/covers/solar-spiral.jpg", gameUrl: null, rating: 4.4, plays: 3014000, year: 2026, badge: null,
   },
   {
     slug: "action-11", titles: {"ru": "Цветочный Контур", "en": "Цветочный Контур", "zh": "Цветочный Контур"}, category: "action", tags: ["экшен"],
@@ -197,12 +197,12 @@ export const defaultGames: PortalGame[] = [
   {
     slug: "adventure-06", titles: {"ru": "Пробуждение корней", "en": "Пробуждение корней", "zh": "Пробуждение корней"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.2, plays: 3973000, year: 2026, badge: null,
+    imageUrl: "/covers/root-awakening.jpg", gameUrl: null, rating: 4.2, plays: 3973000, year: 2026, badge: null,
   },
   {
     slug: "adventure-07", titles: {"ru": "Заводная крачка", "en": "Заводная крачка", "zh": "Заводная крачка"}, category: "adventure", tags: ["приключения"],
     descriptions: {"ru": "Новая игра из расширенного каталога GameHaven.", "en": "Новая игра из расширенного каталога GameHaven.", "zh": "Новая игра из расширенного каталога GameHaven."}, controls: {"ru": ["Стрелки — движение", "Пробел — действие"], "en": ["Стрелки — движение", "Пробел — действие"], "zh": ["Стрелки — движение", "Пробел — действие"]},
-    imageUrl: "/manus-storage/game-action_e9a7e28f.jpg", gameUrl: null, rating: 4.3, plays: 4110000, year: 2026, badge: null,
+    imageUrl: "/covers/clockwork-tern.jpg", gameUrl: null, rating: 4.3, plays: 4110000, year: 2026, badge: null,
   },
   {
     slug: "adventure-08", titles: {"ru": "Призматическое хранилище", "en": "Призматическое хранилище", "zh": "Призматическое хранилище"}, category: "adventure", tags: ["приключения"],
